@@ -42,3 +42,5 @@ MIT – generate, share, fork, profit.
 # PassGen
 ![](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+### LIVE DEMO
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-PassGen--vanilla-purple?style=for-the-badge&logo=github)](https://muzahidulislamabir66731011.github.io/PassGen-vanilla/)
