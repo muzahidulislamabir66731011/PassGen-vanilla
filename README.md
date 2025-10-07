@@ -38,4 +38,7 @@ Static host friendly – drag to Netlify, Vercel, GitHub Pages, or even open fro
 
 ## License
 MIT – generate, share, fork, profit.
-```
+
+# PassGen
+![](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
